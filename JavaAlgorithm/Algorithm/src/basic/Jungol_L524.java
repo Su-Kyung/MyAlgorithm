@@ -1,5 +1,5 @@
 package basic;
-// ¿¬»ê
+// ì—°ì‚°ì
 import java.util.Scanner;
 
 public class Jungol_L524 {

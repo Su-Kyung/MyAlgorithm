@@ -1,5 +1,5 @@
 package basic;
-// if¹®
+// ifë¬¸
 import java.util.Scanner;
 
 public class BOJ_14681 {
