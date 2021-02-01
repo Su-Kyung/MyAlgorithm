@@ -1,4 +1,4 @@
-package basic;
+package boj;
 // if문
 import java.util.Scanner;
 

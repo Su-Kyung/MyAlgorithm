@@ -1,4 +1,4 @@
-package basic;
+package jungol;
 // 연산자
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package basic;
+package boj;
 // 1차원 배열
 import java.util.Scanner;
 
