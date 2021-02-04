@@ -4,7 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-// D4 쇠막대기 자르기
+// D4 쇠막대기 자르기(stack)
+// solved
 /**
  * <swea5432 d4 쇠막대기 자르기 아이디어>
  * 1. 필요한 변수: 유효막대수, 조각 수
@@ -32,6 +33,7 @@ public class swea_5432 {
 			inputs = br.readLine();
 			stick = 0; result = 0;
 			
+			// 일반 for문 이용하는 방법
 			for (int i = 0; i < inputs.length(); i++) {
 				if (inputs.charAt(i)=='(') {
 					if (inputs.charAt(i+1)=='(') stick++;
