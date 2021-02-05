@@ -1,12 +1,13 @@
 package swea;
 
-// 괄호 짝짓기(스택)
+// D4 괄호 짝짓기(스택)
 // solved
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
+
 public class swea_1218 {
 	static int N;
 	static String[] str;

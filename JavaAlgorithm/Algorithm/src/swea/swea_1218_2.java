@@ -1,11 +1,12 @@
 package swea;
 
+// D4 괄호 짝짓기(스택)
+// 조건 다시 잘 따져보기
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
-
-// 괄호 짝짓기(스택)
 
 public class swea_1218_2 {
 	static int length;
