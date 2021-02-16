@@ -1,6 +1,6 @@
 package boj;
 // S2 외계인의 기타 연주(자료구조, 스택)
-// solved
+// solved(40m)
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
