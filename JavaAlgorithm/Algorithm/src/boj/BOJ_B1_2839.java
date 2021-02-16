@@ -1,9 +1,9 @@
 package boj;
+//B1 설탕 배달(그리디, 수학, dp)
+//solved
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
-//B1 설탕 배달(그리디, 수학, dp)
 
 public class BOJ_B1_2839 {
 
