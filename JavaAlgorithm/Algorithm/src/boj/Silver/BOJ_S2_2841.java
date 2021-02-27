@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 // S2 외계인의 기타 연주(자료구조, 스택)
 // solved(40m)
 

@@ -1,4 +1,4 @@
-package boj;
+package boj.Bronze;
 //B2 방배정(수학,구현)
 //solved
 

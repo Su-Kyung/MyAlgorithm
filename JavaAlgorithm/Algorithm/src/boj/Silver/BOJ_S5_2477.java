@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 //S5 참외밭(구현,기하학)
 //solved 32m(5m, 16m, 10m)
 

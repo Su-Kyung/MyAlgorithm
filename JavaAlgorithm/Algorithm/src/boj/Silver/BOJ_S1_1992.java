@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

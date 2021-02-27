@@ -1,4 +1,4 @@
-package boj;
+package boj.Bronze;
 //B1 설탕 배달(그리디, 수학, dp)
 //solved
 

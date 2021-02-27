@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 // S5 체스판 다시 칠하기 (브루트포스 알고리즘)
 // solved(35m)
 

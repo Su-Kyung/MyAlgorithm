@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 // S5 배열 돌리기 3
 // solved
 

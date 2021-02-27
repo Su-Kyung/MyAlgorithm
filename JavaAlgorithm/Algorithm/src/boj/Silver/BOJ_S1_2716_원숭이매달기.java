@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 //S1 원숭이 매달기
 //solved
 

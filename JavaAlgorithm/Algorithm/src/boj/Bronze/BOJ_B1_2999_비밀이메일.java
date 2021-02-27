@@ -1,4 +1,4 @@
-package boj;
+package boj.Bronze;
 
 // B1 비밀 이메일(구현)
 // solved 24m(5m,19m)

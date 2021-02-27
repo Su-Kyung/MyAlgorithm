@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 // S5 비트 우정지수(그리디 알고리즘,수학)
 // solved
 
@@ -14,7 +14,7 @@ public class BOJ_S5_12782 {
 		int T = Integer.parseInt(br.readLine().trim());	//테스트케이스 수
 		StringTokenizer st;
 		String num1, num2;	//비교할 두 수
-		int diff;	//다른 숫자 개수
+//		int diff;	//다른 숫자 개수
 		int one, zero;	//num1 기준
 		for(int t=0; t<T; t++) {
 			st = new StringTokenizer(br.readLine(), " ");

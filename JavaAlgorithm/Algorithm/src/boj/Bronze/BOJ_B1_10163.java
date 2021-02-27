@@ -1,4 +1,4 @@
-package boj;
+package boj.Bronze;
 //B1 색종이(구현)
 //solved
 

@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 //S2 부동산 다툼(트리)
 //solved
 

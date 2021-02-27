@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 // N과 M(1) (분류: 백트래킹, solved.ac 표준)
 // solved
 

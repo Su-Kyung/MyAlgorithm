@@ -1,4 +1,4 @@
-package boj;
+package boj.Gold;
 //G4 알파벳(BFS, 백트래킹)
 //solved
 

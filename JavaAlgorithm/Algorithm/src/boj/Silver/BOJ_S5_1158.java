@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 // Silver5 요세푸스 문제(큐)
 // solved
 

@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 // S1 별찍기-10 (분할 정복, 재귀)
 // solved(1h 18m)
 

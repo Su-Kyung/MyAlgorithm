@@ -1,4 +1,4 @@
-package boj;
+package boj.Silver;
 // S3 단어 뒤집기 2(구현,문자열)
 // solved
 
