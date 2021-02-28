@@ -1,9 +1,9 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 // OX퀴즈(분류: 구현,문자열)
 // solved
 import java.util.Scanner;
 
-public class BOJ_8958 {
+public class BOJ_B2_8958_OX퀴즈 {
 	static int test_case;
 	static char[] inputs;
 	static int count;
