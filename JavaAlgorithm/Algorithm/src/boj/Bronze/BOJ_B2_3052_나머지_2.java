@@ -1,8 +1,8 @@
-package boj;
+package boj.Bronze;
 // 1차원 배열
 import java.util.Scanner;
 
-public class BOJ_3052 {
+public class BOJ_B2_3052_나머지_2 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

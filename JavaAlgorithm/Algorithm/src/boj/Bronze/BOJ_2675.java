@@ -1,4 +1,4 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 // 문자열 반복
 //solved
 import java.util.Scanner;

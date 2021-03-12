@@ -1,4 +1,4 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 // 숫자의 합(분류: 수학,문자열,사칙연산)
 // solved
 

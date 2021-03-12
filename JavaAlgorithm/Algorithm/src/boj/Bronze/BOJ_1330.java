@@ -1,4 +1,4 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 // 두 수 비교하기(분류:수학, 구현, 사칙연산)
 // solved
 

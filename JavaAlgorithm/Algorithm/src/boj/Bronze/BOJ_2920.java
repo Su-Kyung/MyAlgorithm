@@ -1,4 +1,4 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 //음계 (분류: 구현)
 //solved
 import java.util.Scanner;

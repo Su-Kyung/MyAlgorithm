@@ -1,4 +1,4 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 // 아스키 코드(분류: 구현)
 // solved
 

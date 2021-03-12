@@ -1,8 +1,8 @@
-package boj;
+package boj.Bronze;
 // 1차원 배열
 import java.util.Scanner;
 
-public class BOJ_10818 {
+public class BOJ_B3_10818_최소최대 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

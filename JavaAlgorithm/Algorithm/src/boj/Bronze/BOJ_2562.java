@@ -1,4 +1,4 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 // 최댓값(분류: 구현)
 // solved
 import java.util.Scanner;

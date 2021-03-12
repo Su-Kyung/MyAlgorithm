@@ -1,4 +1,4 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 // Hello World (분류: 구현)
 // solved
 public class BOJ_2557 {

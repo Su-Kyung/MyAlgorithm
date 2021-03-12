@@ -1,4 +1,4 @@
-package boj.solved_ac.class1;
+package boj.Bronze;
 // solved
 // 별찍기
 import java.util.Scanner;
