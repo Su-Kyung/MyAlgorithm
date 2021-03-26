@@ -1,4 +1,9 @@
 package boj.Gold;
+//G5 벽장문의 이동 (브루트포스 알고리즘,다이나믹 프로그래밍)
+//solved
+/* dfs로 풀었다.
+ * dp로도 가능!
+ */
 
 import java.io.BufferedReader;
 import java.io.IOException;
