@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class BOJ_G5_8972_미친아두이노 {
+public class BOJ_G4_8972_미친아두이노 {
 	static char[][] map;
 	static int jr, jc;	//종수의 좌표, 아두이노의 좌표
 	static int R, C;
