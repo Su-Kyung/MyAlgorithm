@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_SWT_4014_활주로건설 {
+public class SWEA_SWT_4014_활주로건설 {
 	static int N, X;
 	static int[][] map, rmap;
 	public static void main(String[] args) throws IOException {
