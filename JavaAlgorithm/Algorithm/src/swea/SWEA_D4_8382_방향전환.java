@@ -29,13 +29,16 @@ public class SWEA_D4_8382_방향전환 {
 			width=Math.abs(x1-x2);
 			height=Math.abs(y1-y2);
 			
-			if(width>height) {
-				if((width-height)%2==0) sb.append(width*2).append("\n");
-				else sb.append(width*2-1).append("\n");
-			} else {
-				if((width-height)%2==0) sb.append(height*2).append("\n");
-				else sb.append(height*2-1).append("\n");
-			}
+			sb.append(2*(width>height?width:height) - ((width-height)%2==0?0:1)).append("\n");	//이 방법이 3ms 더 빠름
+//			sb.append(2*Math.max(width, height) - Math.abs((width-height)%2)).append("\n");
+			
+//			if(width>height) {
+//				if((width-height)%2==0) sb.append(width*2).append("\n");
+//				else sb.append(width*2-1).append("\n");
+//			} else {
+//				if((width-height)%2==0) sb.append(height*2).append("\n");
+//				else sb.append(height*2-1).append("\n");
+//			}
 		}
 		System.out.println(sb.toString());
 	}
