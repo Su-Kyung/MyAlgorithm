@@ -67,7 +67,7 @@ public class BOJ_G1_1194_달이차오른다가자 {
 				
 				if(curMap!='.' && curMap!='0' && curMap!='1') {
 					//소문자라면: or연산해서 키 가졌다고 표시
-					if(curMap-'A'>31) nh = cur.h | (1<<(curMap-'A'-32));
+					if(curMap-'A'>31) nh = cur.h | (1<<(curMap-'A'-32));	//소문자인 경우이므로 'a'를 빼주는 것이 더 효율적
 					//대문자라면: 해당 키가 존재하지 않으면 continue
 					else if( ((1<<(curMap-'A')) & nh) == 0 ) continue;
 //					System.out.println(nh);
