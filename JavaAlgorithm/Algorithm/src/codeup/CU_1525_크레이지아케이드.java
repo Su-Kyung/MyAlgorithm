@@ -85,7 +85,7 @@ public class CU_1525_크레이지아케이드 {
 		// 5-2. 플레이어 정보
 		sb.append("Character Information");
 		for (int i = 0; i < num; i++) {
-			sb.append("\nplayer ").append(i + 1).append(' ').append(players[i][2] == 0 ? "survive" : "dead");
+			sb.append("\nplayer ").append(i + 1).append(players[i][2] == 0 ? " survive" : " dead");
 		}
 		System.out.println(sb.toString());
 	}
