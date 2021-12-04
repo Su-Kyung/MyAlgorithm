@@ -1,8 +1,8 @@
-package boj;
+package boj.Bronze;
 // if문
 import java.util.Scanner;
 
-public class BOJ_14681 {
+public class BOJ_B4_14681_사분면고르기 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

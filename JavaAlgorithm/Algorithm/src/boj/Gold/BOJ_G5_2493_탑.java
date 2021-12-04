@@ -1,4 +1,4 @@
-package boj;
+package boj.Gold;
 // Gold5 탑(분류: 자료구조, 스택)
 // solved
 
@@ -7,7 +7,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BOJ_2493 {
+public class BOJ_G5_2493_탑 {
 	static int temp;
 	static int idx;
 	static Stack<int[]> building = new Stack<>();

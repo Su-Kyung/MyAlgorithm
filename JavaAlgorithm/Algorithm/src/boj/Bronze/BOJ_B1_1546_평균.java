@@ -1,8 +1,8 @@
-package boj;
+package boj.Bronze;
 // 1차원 배열
 import java.util.Scanner;
 
-public class BOJ_1546 {
+public class BOJ_B1_1546_평균 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

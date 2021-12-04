@@ -1,10 +1,10 @@
-package boj;
+package boj.Silver;
 //스위치 켜고 끄기(분류: 구현)
 //solved
 
 import java.util.Scanner;
 
-public class BOJ_1244 {
+public class BOJ_S4_1244_스위치켜고끄기 {
 	// 여학생 대칭 처리를 위한 속성
 	static int nIndex1, nIndex2;
 	
